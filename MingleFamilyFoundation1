@@ -1,0 +1,25 @@
+/*
+Theme Name: Mingle Family Together We Rise
+Theme URI: https://github.com/YOURUSERNAME/mingle-family-together-we-rise-wordpress-theme
+Author: Mingle Family Together We Rise Foundation
+Description: Custom nonprofit WordPress theme
+Version: 1.0
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #333;
+}
+
+header {
+  background: #0b2545;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+a {
+  color: #ff7f50;
+  text-decoration: none;
+}
