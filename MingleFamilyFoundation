@@ -1,0 +1,11 @@
+mingle-family-theme/
+├── style.css
+├── index.php
+├── header.php
+├── footer.php
+├── functions.php
+├── screenshot.png
+└── assets/
+    ├── css/
+    ├── js/
+    └── images/
